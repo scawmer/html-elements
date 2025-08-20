@@ -1,0 +1,45 @@
+<html>
+    <head> 
+        <title>HTML ELEMENTS</title>
+    </head>
+
+
+    <body>
+
+        <h1>Hania</h1>
+        <p>My name is <b><u>Hania</u></b><br>
+I am <b><u>14</u></b>  years old.<br>
+MY favourite hobby is probably <b>cross stitching.</b><br> 
+I love quoting random memes. My favourite is <b><q>21!</q></b>        
+        
+        
+        </p>
+
+
+
+    
+    
+        <h1> This <small>is my</small> code.</h1>
+    <h2> This is my code.</h2>
+    <h3>This is my code.</h3>
+    <h4>This is my code.</h4>
+    <h5>This is my code.</h5>
+    <h6>This is my code.</h6>
+
+    <p> html elements are html tags. we are styling text.
+        
+        <h1>designing tags</h1>
+        <u>This is <strong>my</strong> code.</u><br>
+        <em>This is my code.</em><br>
+        <mark>This is my code.</mark><br>
+        <del>This is my code.</del><br>
+        O<sub>2</sub> <BR>
+            2<sup>2</sup> = 4
+    </p>
+
+    
+
+    
+     
+ </body>
+ </html>
