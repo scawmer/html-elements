@@ -1,0 +1,29 @@
+<html>
+    <head><title>more of HTML</title></head>
+
+    <body>
+        <h3>links in HTML</h3>
+
+        <p>google is  search engine website where you can searh about things of all kinda. 
+            <a style="text-decoration: none;" href="https://www.google.com/"> give it a try? </a>
+
+            <h4>List One:types of social media platforms</h4>
+
+            <ul>
+                <li>Instagram</li>
+                <li>Facebook</li>
+                <li>TikTok</li>
+                <li>Snapchat</li>
+                <li>Discord</li>
+            
+            </ul>
+
+            <h4>List Two:types of cars</h4>
+            <ol>
+                <li>Pagani</li>
+                <li>BMW</li>
+                <li>Honda</li>
+                <li>Nisan</li>
+            </ol>
+
+        
